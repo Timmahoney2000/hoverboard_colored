@@ -1,0 +1,1 @@
+hoverboard app with JS filling the squares and an ease effect in CSS to slowly remove the colors
